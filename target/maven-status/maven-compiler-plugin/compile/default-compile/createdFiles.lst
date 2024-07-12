@@ -12,6 +12,7 @@ com\example\productservicemorningbatch\exceptions\InvalidProductIdException.clas
 com\example\productservicemorningbatch\models\Category.class
 com\example\productservicemorningbatch\dtos\ExceptionDto.class
 com\example\productservicemorningbatch\commons\AuthenticationCommons.class
+com\example\productservicemorningbatch\SampleController.class
 com\example\productservicemorningbatch\services\ProductService.class
 com\example\productservicemorningbatch\services\SelfProductService.class
 com\example\productservicemorningbatch\dtos\FakeStoreProductDto.class
